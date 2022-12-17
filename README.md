@@ -1,7 +1,11 @@
 <div id="header">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
+</div>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 - 👋 Hi, I’m Rawan El-Ghali
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning React.js
@@ -12,11 +16,7 @@
   <a href="https://twitter.com/Rozoo31">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
