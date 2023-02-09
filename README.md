@@ -9,9 +9,9 @@
 
 - 👋 Hi, I’m Rawan El-Ghali
 
-- 👀 I’m interested in front-end development
+- 👀 I’m interested in BI Development
 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning SQL
 
 - 📫 How to reach me <div id="badges">
   <a href="https://www.linkedin.com/in/rawan-el-ghali-95199a24a/">
